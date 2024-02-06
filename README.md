@@ -4,7 +4,7 @@
 * 🚀  This bot will help you get the status of a qualified investor
 -------------------------------------
 
-###Brief instructions:
+### Brief instructions:
 
 1) Insert your Tinkoff Investments API token into the TOKEN variable.
 2) Specify the FIGI (Tinkoff Bonds ID) you want to invest in in the FIGI variable.
